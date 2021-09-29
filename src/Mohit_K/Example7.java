@@ -2,8 +2,8 @@ package Mohit_K;
 
 public class Example7 {
 	String name;
-	static double price;
-	static  char qGrade = 'A';
+	 double price;
+     char qGrade = 'A';
 	
 	public static void main(String[] args) {
 		Example7 example7 = new Example7();
