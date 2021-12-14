@@ -36,7 +36,7 @@ public class Program3 {
 		
 		for(int index=0; index<output.length; index++) {
 			if(output[index] != 0)
-			System.out.println("sum of digits in string is = "+output[index]);	
+			System.out.println(output[index]);	
 		}
 	}
 }
